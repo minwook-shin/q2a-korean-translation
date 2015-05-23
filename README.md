@@ -18,3 +18,5 @@ Question2Answer korean  translation / Question2Answer 한국어 번역
 영어원본과 다른 예시가 들어있음
 
 직역과 의역이 섞여있음
+
+qa-lang-emails.php의 미번역
