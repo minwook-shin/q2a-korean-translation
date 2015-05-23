@@ -13,6 +13,10 @@ Question2Answer korean  translation / Question2Answer 한국어 번역
 
 3.q2a의 어드민 항목에서 korean-한국어로 변경하십시오.
 
+##사용 가능한 버전
+
+q2a 1.7 정상작동 확인함.
+
 ##알려진 버그와 이슈 [자세한 본문은 위키를 참고하십시오.]
 
 영어원본과 다른 예시가 들어있음
