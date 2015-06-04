@@ -62,8 +62,8 @@
 		'comment_reshown' => '댓글 다시보기',
 		'commented' => 'commented',
 		'date_day_min_digits' => 1, // 1 or 2
-		'date_format_other_years' => '^달 ^일, ^년',
-		'date_format_this_year' => '^달 ^일',
+		'date_format_other_years' => '^year ^month ^day',
+		'date_format_this_year' => '^month ^day',
 		'date_month_1' => '1월',
 		'date_month_2' => '2월',
 		'date_month_3' => '3월',
