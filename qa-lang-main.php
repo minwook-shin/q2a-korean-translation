@@ -99,7 +99,7 @@
 		'moved' => '이동',
 		'nav_activity' => '모든 활동',
 		'nav_admin' => '어드민',
-		'nav_ask' => '질문 묻기',
+		'nav_ask' => '질문하기',
 		'nav_categories' => '카테고리',
 		'nav_feedback' => '피드백 보내기',
 		'nav_home' => '홈',
