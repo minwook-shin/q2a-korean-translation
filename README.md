@@ -3,7 +3,7 @@ Question2Answer korean  translation / Question2Answer 한국어 번역
 
 ##번역본 라이센스?
 
-해당 번역본은 원번역자를 표시하는 조건에서 자유로운 사용이 가능합니다.
+해당 번역본은 원번역자를 표시하는 조건에서 비영리 사용이 가능합니다.
 
 ##설치 방법
 
