@@ -100,7 +100,7 @@
 		'edit_button' => '수정',
 		'edit_c_popup' => '댓글 수정',
 		'edit_c_title' => '댓글 수정',
-		'edit_must_confirm' => '이것을 수정하려면 ^5이메일 확인^해주세요.',
+		'edit_must_confirm' => '이것을 수정하려면 ^5이메일 확인^6해주세요.',
 		'edit_must_login' => '이것을 수정하려면^1로그인^2 또는 ^3가입^4해주세요.',
 		'edit_q_popup' => '질문 수정',
 		'edit_q_title' => '질문 수정',
