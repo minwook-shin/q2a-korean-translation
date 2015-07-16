@@ -5,6 +5,10 @@ Question2Answer korean  translation / Question2Answer 한국어 번역
 
 해당 번역본은 원번역자를 표시하는 조건에서 비영리 사용이 가능합니다.
 
+번역자 표시하에 사용가능 but, 번역자 미표시 혹은 무단 재배포시 민사소송까지 갈 수 있습니다. 
+
+/ Use to display a translator... but Copyright undeclared can be a civil lawsuit.
+
 ##설치 방법 / Installation Method
 
 1.php 언어 파일 8개를 내려 받으십시오.
@@ -21,7 +25,6 @@ Only add a string according to the updated version will be updated .
 
 ## 고마우신 분 / thanks to
 cogniti 고질적 버그 수준이였던 ^달 ^일 수정 정말 감사드립니다!!!!!
-sebuls 많은 건의 감사합니다!!!
 
 ##알려진 버그와 이슈 / Known bugs and issues 
 [자세한 본문은 위키를 참고하십시오.]
