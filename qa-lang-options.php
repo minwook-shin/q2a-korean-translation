@@ -62,7 +62,7 @@
 		'confirm_user_required' => '모든 새로운 사용자는 자신의 이메일을 확인:',
 		'custom_home_content' => '홈페이지 컨텐츠 - HTML 확인됨:',
 		'custom_home_heading' => '홈 페이지 제목:',
-		'default_privacy' => '사생활: 귀하의 이메일 주소를 공유 ​​하거나 제 3 자에게 판매하지 않는다 .',
+		'default_privacy' => '개인정보 보호: 귀하의 이메일 주소를 공유하거나 제 3 자에게 판매하지 않습니다 .',
 		'default_sidebar' => '환영합니다 ^, 당신은 어디에서 질문을하고 지역 사회 의 다른 구성원 으로부터 답변을 받을 수 있습니다.',
 		'default_subject' => '^부터의 메시지',
 		'default_suffix' => '질문&답변',
