@@ -20,7 +20,6 @@
 	More about this license: http://www.question2answer.org/license.php
 	korea translation made by minwook shin
 	https://github.com/minwook-shin
-	이메일란은 미번역됨!
 */
 
 	return array(
