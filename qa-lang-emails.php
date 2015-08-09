@@ -38,7 +38,7 @@
 		'confirm_body' => "귀하의 이메일 주소를 확인하기 위해 아래를 클릭하세요 ^site_title.\n\n^url\n\n감사합니다,\n^site_title",
 		'confirm_subject' => '^site_title - 이메일 주소 확인',
 
-		'feedback_body' => "댓글:\n^message\n\n이름:\n^name\n\n이메일:\n^email\n\n이전 페이지:\n^previous\n\n유저:\n^url\n\nIP 주소:\n^ip\n\n브라우저:\n^browser",
+		'feedback_body' => "내용:\n^message\n\n이름:\n^name\n\n이메일:\n^email\n\n이전 페이지:\n^previous\n\n유저:\n^url\n\nIP 주소:\n^ip\n\n브라우저:\n^browser",
 		'feedback_subject' => '^ 피드백',
 
 		'flagged_body' => "^p_handle 님께서 쓰신 글이 수신되었습니다. ^flags:\n\n^open^p_context^close\n\n게시물을 보려면 아래를 클릭하십시오:\n\n^url\n\n\n모든 플래그 게시물을 다시 보려면 아래를 클릭하십시오:\n\n^a_url\n\n\n감사합니다,\n\n^site_title",
