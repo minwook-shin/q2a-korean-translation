@@ -17,7 +17,3 @@ cogniti님, 고질적 버그 수준이였던 '^달 ^일'을 수정해주셔서 �
 [자세한 본문은 위키를 참고하십시오.]<br/>
 영어원본과 다른 예시가 들어있음<br/>
 An example is different original.<br/>
-직역과 의역이 섞여있음<br/>
-Literal translation and paraphrase mixed<br/>
-qa-lang-emails.php의 미번역<br/>
-untranslated for qa-lang-emails.php
