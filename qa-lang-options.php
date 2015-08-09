@@ -65,7 +65,7 @@
 		'default_privacy' => '사생활: 귀하의 이메일 주소를 공유 ​​하거나 제 3 자에게 판매하지 않는다 .',
 		'default_sidebar' => '환영합니다 ^, 당신은 어디에서 질문을하고 지역 사회 의 다른 구성원 으로부터 답변을 받을 수 있습니다.',
 		'default_subject' => '^부터의 메시지',
-		'default_suffix' => 'Q&A',
+		'default_suffix' => '질문&답변',
 		'default_terms' => '나는^ 이용 약관 및 개인 정보 보호 정책 에 동의',
 		'do_ask_check_qs' => '질문 과 유사한 질문 ​​을 확인:',
 		'do_close_on_select' => '선택한 답변의 질문을 닫기:',

@@ -60,7 +60,7 @@
 		'comment_edited' => '댓글 수정',
 		'comment_moved' => '댓글 이동',
 		'comment_reshown' => '댓글 다시보기',
-		'commented' => 'commented',
+		'commented' => '댓글',
 		'date_day_min_digits' => 1, // 1 or 2
 		'date_format_other_years' => '^year ^month ^day',
 		'date_format_this_year' => '^month ^day',
