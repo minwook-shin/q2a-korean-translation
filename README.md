@@ -1,5 +1,6 @@
 # q2a-korean-translation
 Question2Answer korean  translation / Question2Answer 한국어 번역
+https://github.com/minwook-shin/q2a-korean-translation/
 
 ##번역본 라이센스 / Translation licenses
 
