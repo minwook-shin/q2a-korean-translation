@@ -1,6 +1,7 @@
 # q2a-korean-translation
 Question2Answer korean  translation / Question2Answer 한국어 번역<br/>
-https://github.com/minwook-shin/q2a-korean-translation/
+https://github.com/minwook-shin/q2a-korean-translation/ <br/>
+100% 완료 / 100% complete
 ##번역본 라이센스 / Translate licenses
 해당 번역본은 원번역자를 표시하는 조건에서 비영리 사용이 가능합니다.<br/>
 번역자 표시하에 사용가능 하지만, 번역자 미표시 혹은 무단 재배포시 민사소송까지 갈 수 있습니다. <br/>
