@@ -61,13 +61,13 @@
 		'q_commented_body' => "^site_title 당신의 질문으로 ^c_handle 님께서 새로운 댓글을 달았습니다:\n\n^open^c_content^close\n\n당신의 질문입니다:\n\n^open^c_context^close\n\n당신은 자신의 의견으로 댓글을 추가할 수 있습니다:\n\n^url\n\n감사합니다,\n\n^site_title",
 		'q_commented_subject' => '당신의 ^site_title 질문에 새로운 댓글이 있습니다',
 
-		'q_posted_body' => "^q_handle 님께서 새로운 질문을 묻고있습니다:\n\n^open^q_title\n\n^q_content^close\n\n질문을 보려면 아래를 클릭하십시오:\n\n^url\n\n감사합니다,\n\n^site_title",
+		'q_posted_body' => "^q_handle 님께서 새로운 질문을 묻고 있습니다:\n\n^open^q_title\n\n^q_content^close\n\n질문을 보려면 아래를 클릭하십시오:\n\n^url\n\n감사합니다,\n\n^site_title",
 		'q_posted_subject' => '^site_title 의 새로운 질문입니다',
 
 		'remoderate_body' => "^p_handle 에 의해 편집 된 게시물은 재승인이 필요합니다:\n\n^open^p_context^close\n\n승인하거나 편집 한 게시물을 숨기려면 아래를 클릭하십시오:\n\n^url\n\n\n모든 대기중인 게시물을 다시 보려면 아래를 클릭하십시오:\n\n^a_url\n\n\n감사합니다,\n\n^site_title",
 		'remoderate_subject' => '^site_title 관리',
 
-		'reset_body' => "^site_title 에 대한 비밀번호를 재설정하시려면 아래를 클릭하세요.\n\n^url\n\n또한, 제공된 필드에 아래 코드를 입력합니다.\n\n코드: ^code\n\n비밀번호를 재설정하도록 요청하지 않은 경우,이 메시지를 무시하십시오.\n\n감사합니다,\n^site_title",
+		'reset_body' => "^site_title 에 대한 비밀번호를 재설정하시려면 아래를 클릭하세요.\n\n^url\n\n또한, 제공된 필드에 아래 코드를 입력합니다.\n\n코드: ^code\n\n비밀번호를 재설정하도록 요청하지 않은 경우, 이 메시지를 무시하십시오.\n\n감사합니다,\n^site_title",
 		'reset_subject' => '^site_title - 잊어버린 비밀번호 초기화',
 
 		'to_handle_prefix' => "^,\n\n",
@@ -84,7 +84,7 @@
 
 		'welcome_body' => "^site_title 에 등록 해 주셔서 감사합니다.\n\n^custom^confirmYour 다음과 같이 로그인 세부 사항:\n\n유저이름: ^handle\n이메일: ^email\n\n나중에 참조 할 수 있도록 안전 정보를 보관하십시오.\n\n감사합니다,\n\n^site_title\n^url",
 		'welcome_confirm' => "이메일 주소를 확인하기 위해 아래를 클릭하세요.\n\n^url\n\n",
-		'welcome_subject' => '^site_title 에 오신것을 환영합니다!',
+		'welcome_subject' => '^site_title 에 오신 것을 환영합니다!',
 	);
 
 
