@@ -3,7 +3,7 @@ Question2Answer korean  translation<br/>
 https://github.com/minwook-shin/q2a-korean-translation/ <br/>
 100% complete
 ##Translate licenses
-The translation of this book can be used in the non-profit condition to display the original translators.<br/>
+The translation pack can be used in the non-profit condition to display the original translators.<br/>
 
 ## how to Install
 1.Get 8 php language file.. <br/>
