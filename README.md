@@ -1,9 +1,8 @@
 # q2a-korean-translation
-Question2Answer korean  translation<br/>
-https://github.com/minwook-shin/q2a-korean-translation/ <br/>
-100% complete
+Question2Answer korean  translation 100% complete<br/>
+https://github.com/minwook-shin/q2a-korean-translation
 ##Translate licenses
-Creative Commons License CC BY-NC-SA <br/>
+Creative Commons License CC BY-NC-SA https://creativecommons.org/licenses/by-nc-sa/4.0/ <br/>
 
 ## how to Install
 1.Get 8 php language file.. <br/>
