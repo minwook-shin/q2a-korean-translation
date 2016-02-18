@@ -2,7 +2,8 @@
 Question2Answer korean  translation 100% complete<br/>
 https://github.com/minwook-shin/q2a-korean-translation
 ##Translate licenses
-Creative Commons License CC BY-NC-SA https://creativecommons.org/licenses/by-nc-sa/4.0/ <br/>
+GPL (GNU General Public License) 2.0
+http://www.fsf.org/licenses/gpl.html
 
 ## how to Install
 1.Get 8 php language file.. <br/>
