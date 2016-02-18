@@ -4,6 +4,7 @@ https://github.com/minwook-shin/q2a-korean-translation
 ##Translate licenses
 GPL (GNU General Public License) 2.0
 http://www.fsf.org/licenses/gpl.html
+* follows licensing of the platform.
 
 ## how to Install
 1.Get 8 php language file.. <br/>
