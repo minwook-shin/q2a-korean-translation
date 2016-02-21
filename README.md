@@ -13,4 +13,4 @@ Q2A 1.7.x
 cogniti, Thank you for bug fixes.
 
 ##package download
-###2016Y 2M 21D download [here](https://github.com/minwook-shin/q2a-korean-translation/archive/master.zip)
+###download [here](https://github.com/minwook-shin/q2a-korean-translation/archive/master.zip)
