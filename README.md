@@ -5,12 +5,10 @@ https://github.com/minwook-shin/q2a-korean-translation
 GPL (GNU General Public License) 2.0
 http://www.fsf.org/licenses/gpl.html
 * follows licensing of the platform.
-
-## how to Install
-1.Get 8 php language file.. <br/>
-2.Please put your language files in the folder ko.<br/>
-3.Change to Korean in the Administration of q2a.
 ## Available versions
 Q2A 1.7.x
 ## thanks to
 cogniti, Thank you for bug fixes.
+
+##DOWNLOAD
+###2016Y 2M 21D [here](https://github.com/minwook-shin/q2a-korean-translation/releases/tag/02.21)
