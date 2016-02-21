@@ -14,5 +14,3 @@ http://www.fsf.org/licenses/gpl.html
 Q2A 1.7.x
 ## thanks to
 cogniti, Thank you for bug fixes.
-## Known bugs and issues 
-An example is different original.<br/>
