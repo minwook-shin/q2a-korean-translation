@@ -23,6 +23,10 @@
 */
 
 	return array(
+		'_decimal_point' => ".",
+		'_thousands_separator' => ",",
+		'_thousands_suffix' => "k",
+		'_millions_suffix' => "m",
 		'1_answer' => '1 답변',
 		'1_comment' => '1 댓글',
 		'1_day' => '1 일',
