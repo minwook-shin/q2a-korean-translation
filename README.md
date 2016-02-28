@@ -1,5 +1,5 @@
 # q2a-korean-translation
-Question2Answer korean  translation <br/>
+Question2Answer korean translation complete package <br/>
 https://github.com/minwook-shin/q2a-korean-translation
 ##Translate licenses
 GPL (GNU General Public License) 2.0
