@@ -1,4 +1,4 @@
-# q2a-korean-translation
+# q2a-korean-translation (Development branch for new version)
 Question2Answer korean translation 100% complete <br/>
 https://github.com/minwook-shin/q2a-korean-translation
 ##Translate licenses
@@ -8,6 +8,7 @@ http://www.fsf.org/licenses/gpl.html
 
 ## Available versions
 Q2A 1.7.x
+Q2A 1.8.x (1.8-dev branch only)
 
 ## thanks to
 cogniti, Thank you for bug fixes.
