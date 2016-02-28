@@ -23,6 +23,7 @@
 */
 
 	return array(
+		'user_x_disabled_pms' => "^ 유저가 비공개 메시지를 비활성화함.",
 		'1_chosen_as_best' => ' (1 이 최고로 선정됨)',
 		'1_down_vote' => '1 down 투표',
 		'1_up_vote' => '1 up 투표',
