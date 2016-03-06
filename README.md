@@ -10,13 +10,13 @@ http://www.fsf.org/licenses/gpl.html
 Q2A 1.7.x
 
 ## thanks to
-cogniti		Thank you for bug fixes. 
+cogniti,		Thank you for bug fixes. 
 
-yeon333		Thank you for year,month fixes.
+yeon333,		Thank you for year,month fixes.
 
-commaniakr		Thank you for Fix incorrect translation.
+commaniakr,		Thank you for Fix incorrect translation.
 
-revi		Thank you for Modify spaces
+revi,		Thank you for Modify spaces
 
 ##package download
 ###download [here](https://github.com/minwook-shin/q2a-korean-translation/archive/master.zip)
