@@ -12,6 +12,7 @@ Q2A 1.8.x (1.8-dev branch only)
 
 ## thanks to
 cogniti, Thank you for bug fixes.
+yeon333, Thank you for year,month fixes.
 
 ##package download
 ###download [here](https://github.com/minwook-shin/q2a-korean-translation/archive/master.zip)
