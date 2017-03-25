@@ -18,5 +18,5 @@ commaniakr,		Thank you for Fix incorrect translation.
 
 revi,		Thank you for Modify spaces
 
-##package download
-###download [here](https://github.com/minwook-shin/q2a-korean-translation/archive/master.zip)
+## package download
+### download [here](https://github.com/minwook-shin/q2a-korean-translation/archive/master.zip)
