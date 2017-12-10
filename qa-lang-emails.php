@@ -35,7 +35,7 @@
 		'c_commented_body' => "^c_handle 님의 새로운 댓글이 당신의 ^site_title 댓글에 추가되었습니다:\n\n^open^c_content^close\n\n다음은 토론 내용입니다:\n\n^open^c_context^close\n\n다른 댓글을 추가하여 대답 할 수 있습니다:\n\n^url\n\n감사합니다,\n\n^site_title",
 		'c_commented_subject' => '당신의 ^site_title 댓글이 추가되었습니다',
 
-		'confirm_body' => "귀하의 이메일 주소를 확인하기 위해 아래를 클릭하세요 ^site_title.\n\n^url\n\n감사합니다,\n^site_title",
+		'confirm_body' => "^site_title의 이메일 주소를 확인하려면 아래를 클릭하십시오.\n\n^url\n\n확인 코드: ^code\n\n 감사합니다,\n^site_title",
 		'confirm_subject' => '^site_title - 이메일 주소 확인',
 
 		'feedback_body' => "내용:\n^message\n\n이름:\n^name\n\n이메일:\n^email\n\n이전 페이지:\n^previous\n\n유저:\n^url\n\nIP 주소:\n^ip\n\n브라우저:\n^browser",
