@@ -23,7 +23,8 @@
 
 */
 
-return array(
+
+	return array(
 		'active_widgets_explanation' => '현재 사용중인 위젯:',
 		'add_category_button' => '카테고리 추가',
 		'add_field_button' => '칸 추가',
@@ -56,18 +57,7 @@ return array(
 		'block_ips_note' => '범위에 대해 하이픈을 사용하거나 임의의 숫자*와 일치하도록 합니다. 예시: 192.168.0.4 , 192.168.0.0-192.168.0.31 , 192.168.0.*',
 		'block_user_popup' => '제한된 유저',
 		'block_words_note' => '모든 문자와 일치하도록 * 를 사용합니다. 예시: 우분투 (오직 우분투만 인식될것) , 우분투* (우분투설치 혹은 우분투오류도 인식됨) , *분투 (주분투,루분투등도 인식됨).',
-		'caching_cleanup' => '정리 작업 캐싱',
-	    'caching_delete_all' => '전체 캐시 삭제',
-	    'caching_delete_complete' => '성공적으로 캐시가 지워졌습니다',
-	    'caching_delete_expired' => '만료 된 캐시 삭제',
-	    'caching_delete_progress' => '^2 의 ^1 캐시 파일 삭제됨...',
-	    'caching_dir_error' => 'QA_CACHE_DIRECTORY로 정의 된 디렉토리는 ^ 웹 서버가 쓸 수 없습니다.',
-	    'caching_dir_missing' => '캐시 디렉토리가 정의되지 않았습니다.',
-	    'caching_dir_public' => 'QA_CACHE_DIRECTORY로 정의 된 디렉토리는 ^ 외부의 퍼블릭 루트가 있어야합니다.',
-	    'caching_num_items' => '캐시에 있는 항목 수',
-	    'caching_space_used' => '총 캐시의 크기',
-	    'caching_title' => '캐싱',
-        'cancel_mailing_button' => '메일링 취소',
+		'cancel_mailing_button' => '메일링 취소',
 		'categories_introduction' => '카테고리 를 시작 합니다., \'카테고리 추가\' 버튼을 클릭.',
 		'categories_not_shown' => '카테고리가 있는 몇 가지 질문이 표시되지 않습니다 ',
 		'categories_title' => '카테고리',
@@ -115,7 +105,6 @@ return array(
 		'edit_title' => ' - ^1타이틀 수정^2',
 		'emails_per_minute' => '분당 이메일',
 		'emails_title' => '이메일',
-	    'enabled' => '활성화됨',
 		'feed_link_example' => '피드 예시',
 		'feed_link' => '피드',
 		'feeds_title' => 'RSS피드',
@@ -206,7 +195,6 @@ return array(
 		'recalc_categories_note' => ' - 게시물 카테고리와 카테고리 카운트',
 		'recalc_categories_recounting' => ' ^2 의 ^1 카테고리를 위한 질문을 열거...',
 		'recalc_categories_updated' => '^2 게시물의 ^1재계산...',
-        'recalc_hotness_q_view_note' => '사용 중지 된 경우 페이지 속도가 약간 향상 될 수 있지만보기가 양호 설정에 포함되어 있으면 만료 값이 오래 될 수 있습니다',
 		'recalc_categories' => '카테고리 재계산',
 		'recalc_points_complete' => '모든 유저의 포인트가 성공적으로 재계산되었습니다.',
 		'recalc_points_note' => ' - 유저 랭크와 포인트 표시 ',
