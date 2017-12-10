@@ -23,6 +23,10 @@
 */
 
 	return array(
+		'minify_html' => "HTML 최소화:",
+		'place_side_low' => "사이트 패널 - 낮음",
+		'show_compact_numbers' => "컴팩트 번호 보이기 (e.g. 1.3k):",
+		'use_microdata' => "schema.org 마이크로데이터 사용:",
 		'allow_change_usernames' => '게시물은 유저가 자신의 이름을 변경할 수 있도록 허용:',
 		'allow_close_questions' => '허용 질문은 수동으로 폐쇄 함:',
 		'allow_login_email_only' => '전용 이메일 주소로 로그인 (유저이름 아님):',
