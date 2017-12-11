@@ -3,11 +3,11 @@
 	Question2Answer by Gideon Greenspan and contributors
 	http://www.question2answer.org/
 
-	File: qa-include/qa-lang-users.php
+    File: qa-include/qa-lang-users.php
 	Description: Language phrases for user management
 
 
-	This program is free software; you can redistribute it and/or
+    This program is free software; you can redistribute it and/or
 	modify it under the terms of the GNU General Public License
 	as published by the Free Software Foundation; either version 2
 	of the License, or (at your option) any later version.
@@ -25,7 +25,7 @@
 	return array(
 		'about' => '정보',
 		'add_user_x_favorites' => '^ 유저를 즐겨찾기에 추가',
-		'approve_required' => '계정이 승인될 때까지 기다리거나 ^1더 많은 정보를 추가^2 하십시오.',
+		'approve_required' => '계정이 승인될 때까지 기다리거나 ^1더 많은 정보를 추가^2 하십시오.', // @deprecated
 		'approve_title' => '사용자 승인 대기 중',
 		'approve_user_button' => '사용자 승인하기',
 		'approved_user' => '승인된 사용자',
@@ -41,8 +41,9 @@
 		'category_level_none' => '업그레이드 안됨',
 		'change_email_link' => ' - ^1이메일 변경^2',
 		'change_password' => '비밀번호 변경',
+	    'confirm_button' => '이메일 주소 확인',
 		'confirm_complete' => '감사합니다. - 이메일 주소가 확인되었습니다.',
-		'confirm_emailed' => '확인 링크를 이메일로 전송하였습니다. 이메일 주소를 확인할 수 있는 링크를 클릭하십시오.',
+		'confirm_emailed' => '확인 링크를 이메일로 전송하였습니다. 이메일 주소를 확인할 수 있는 링크를 클릭하거나 확인 코드를 작성하십시오.',
 		'confirm_required' => '가입이 완료되었습니다, 이메일로 발송 된 확인 링크를 클릭, 혹은 ^1다시 요구^2.',
 		'confirm_title' => '이메일 주소 확인됨',
 		'confirm_wrong_log_in' => '코드가 정확하지 않습니다. - ^1로그인^2 새로운 링크를 보냅니다.',
@@ -50,6 +51,10 @@
 		'delete_user_button' => '유저 삭제',
 		'edit_profile' => '나의 프로필 수정',
 		'edit_user_button' => '유저 수정',
+        'email_code_another' => '다르게 보냄',
+	    'email_code_emailed' => '코드를 이메일로 보냈습니다',
+	    'email_code_label' => '코드:',
+	    'email_code_wrong' => '코드 맞지 않음',
 		'email_confirmed' => '확인됨',
 		'email_exists' => '이 계정의 이메일은 이미 사용되고 있습니다.',
 		'email_handle_label' => '이메일 혹은 유저 이름:',
@@ -60,6 +65,7 @@
 		'email_required' => '이메일이 요구됨 - 공개되지 않습니다.',
 		'forgot_link' => '비밀번호를 잊어버렸습니다.',
 		'full_name' => '전체 이름',
+	    'handle_blocked' => '유저이름이 비허용되었습니다 - 다르게 시도해보십시오',
 		'handle_empty' => '유저 이름은 비워둘 수 없습니다.',
 		'handle_exists' => '유저 닉네임 중복 - 다른 시도하십시오',
 		'handle_has_bad' => '사용자 이름이 포함되지 않을 수 있습니다: ^',
@@ -103,8 +109,6 @@
 		'private_messages_explanation' => '이메일을 당신에게 보낼수있게 허용된 유저 (당신의 주소는 보지못함)',
 		'private_messages' => '비밀 메시지:',
 		'profile_saved' => '프로필 저장됨',
-		'wall_posts' => '담벼락 게시물:',
-		'wall_posts_explanation' => '당신의 담벼락에 게시물 게시를 허용한 유저 (당신에게 이메일로 전송됩니다)',
 		'register_button' => '가입',
 		'register_limit' => '너무 많은 가입 시도 - 몇 시간후 다시 시도해주십시오',
 		'register_suspended' => '새로운 유저의 가입이 일시적으로 제한되었습니다. 나중에 다시 시도해 주십시오.',
@@ -114,15 +118,10 @@
 		'remember_label' => '이 컴퓨터를 기억',
 		'remember' => '기억',
 		'remove_avatar' => 'avatar 삭제:',
-		'reset_code_another' => '다른것을 보내다',
-		'reset_code_emailed' => '당신의 초기화 코드는 보내졌습니다.',
-		'reset_code_label' => '코드:',
-		'reset_code_wrong' => '코드가 일치하지않음',
 		'reset_title' => '잊어버린 비밀번호 초기화',
 		'save_profile' => '프로필 저장',
 		'save_user' => '유저 저장',
 		'send_confirm_button' => '확인 링크 보내기',
-		'send_password_button' => '새 비밀번호 보내기',
 		'send_reset_button' => '비밀번호 초기화 이메일 보내기',
 		'send_reset_note' => '메시지가 지시된 이메일 주소로 발송됩니다 .',
 		'special_users' => '스페셜 유저',
@@ -134,6 +133,8 @@
 		'unsubscribe' => '구독 취소:',
 		'user_blocked' => '(제한됨)',
 		'user_not_found' => '유저를 찾을 수 없음',
+		'wall_posts' => '담벼락 게시물:',
+		'wall_posts_explanation' => '당신의 담벼락에 게시물 게시를 허용한 유저 (당신에게 이메일로 전송됩니다)',
 		'website' => '웹사이트',
 		'x_ago_from_y' => '^1 전에 ^2 으로 접속',
 	);
