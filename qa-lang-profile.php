@@ -3,11 +3,11 @@
 	Question2Answer by Gideon Greenspan and contributors
 	http://www.question2answer.org/
 
-	File: qa-include/qa-lang-profile.php
+
+    File: qa-include/qa-lang-profile.php
 	Description: Language phrases for user profile page
 
-
-	This program is free software; you can redistribute it and/or
+    This program is free software; you can redistribute it and/or
 	modify it under the terms of the GNU General Public License
 	as published by the Free Software Foundation; either version 2
 	of the License, or (at your option) any later version.
@@ -21,9 +21,7 @@
 	korea translation made by minwook shin
 	https://github.com/minwook-shin
 */
-
 	return array(
-		'user_x_disabled_pms' => "^ 유저가 비공개 메시지를 비활성화함.",
 		'1_chosen_as_best' => ' (1 이 최고로 선정됨)',
 		'1_down_vote' => '1 down 투표',
 		'1_up_vote' => '1 up 투표',
@@ -59,15 +57,18 @@
 		'permit_retag' => '어떤 질문을 태그 재지정',
 		'permit_select_a' => '어떤 질문에 대한 답을 선택',
 		'permit_view_q_page' => '질문 페이지들 보기',
+	    'permit_view_new_users_page' => '새로운 유저 페이지 보기',
+	    'permit_view_special_users_page' => '특별한 유저 페이지 보기',
 		'permit_view_voters_flaggers' => '누가 투표했는지 보거나 게시물을 신고 지정',
 		'permit_vote_a' => '답변에 투표',
+    	'permit_vote_c' => '댓글에 투표하기',
 		'permit_vote_down' => 'down게시물에 투표',
 		'permit_vote_q' => '질문에 투표',
 		'post_wall_blocked' => '이 사용자는 자신의 담벼락에 게시물을 게시를 비허용했습니다.',
 		'post_wall_button' => '담벼락 게시물 추가',
 		'post_wall_empty' => '이 담벼락에 게시할 수 있는 무언가를 입력하세요',
 		'post_wall_limit' => '이 시간에는 더이상 담벼락에 게시물을 쓸 수 없습니다',
-		'post_wall_must_be_approved' => '이 계정은 담벼락에 게시할려면 승인을 받아야합니다.',
+		'post_wall_must_be_approved' => '이 계정은 담벼락에 게시하려면 승인 받아야합니다. 기다리시거나 ^1더 정보를 추가^2 하시기 바랍니다.',
 		'post_wall_must_confirm' => '담벼락에 게시하려면 ^5당신의 이메일 주소 확인^6 해야합니다.',
 		'post_wall_must_login' => '담벼락에 게시하려면 ^1로그인^2 하거나 ^3가입^4 해야합니다.',
 		'questions_by_x' => '^ 의해 질문',
@@ -80,6 +81,7 @@
 		'set_bonus_button' => '보너스 업데이트',
 		'title' => '주제:',
 		'user_x' => '유저 ^',
+        'user_x_disabled_pms' => '유저가 ^ 비공개 메시지를 비활성화함.',
 		'voted_on' => '투표:',
 		'wall_for_x' => '^ 위한 담벼락',
 		'wall_view_more' => '더 많은 담벼락 게시물 보기',
