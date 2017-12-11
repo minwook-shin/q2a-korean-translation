@@ -3,9 +3,8 @@
 	Question2Answer by Gideon Greenspan and contributors
 	http://www.question2answer.org/
 
-	File: qa-include/qa-lang-options.php
+    File: qa-include/qa-lang-options.php
 	Description: Language phrases for all options, as shown in admin center
-
 
 	This program is free software; you can redistribute it and/or
 	modify it under the terms of the GNU General Public License
@@ -16,17 +15,15 @@
 	but WITHOUT ANY WARRANTY; without even the implied warranty of
 	MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 	GNU General Public License for more details.
+    
+    More about this license: http://www.question2answer.org/license.php
 
-	More about this license: http://www.question2answer.org/license.php
 	korea translation made by minwook shin
 	https://github.com/minwook-shin
 */
-
-	return array(
-		'minify_html' => "HTML 최소화:",
-		'place_side_low' => "사이트 패널 - 낮음",
-		'show_compact_numbers' => "컴팩트 번호 보이기 (e.g. 1.3k):",
-		'use_microdata' => "schema.org 마이크로데이터 사용:",
+return array(
+        'allow_anonymous_naming' => '익명 포스터가 그들의 이름을 지정할 수 있게 허용:',
+	    'allow_close_own_questions' => '사용자가 자신의 질문을 닫도록 허용:',
 		'allow_change_usernames' => '게시물은 유저가 자신의 이름을 변경할 수 있도록 허용:',
 		'allow_close_questions' => '허용 질문은 수동으로 폐쇄 함:',
 		'allow_login_email_only' => '전용 이메일 주소로 로그인 (유저이름 아님):',
@@ -37,7 +34,7 @@
 		'allow_user_walls' => '유저 프로필에 담벼락 게시물을 사용:',
 		'allow_self_answer' => '사용자가 자신의 질문에 대답 할 수 있도록 허용 :',
 		'allow_view_q_bots' => '검색 엔진이 질문 페이지를 볼 수 있도록 허용',
-		'approve_user_required' => '모든 새로운 유저의 승인을 받아야함:',
+		'approve_user_required' => '모든 새로운 유저의 승인을 받아야함:', // @deprecated 
 		'avatar_allow_gravatar' => '^1Gravatar^2 아바타 허용:',
 		'avatar_allow_upload' => '유저의 avatars 업로드를 허용:',
 		'avatar_default_show' => '기존 avatar:',
@@ -49,9 +46,18 @@
 		'avatar_q_page_q_size' => '질문의 아바타 크기:',
 		'avatar_store_size' => '아바타를 저장하는 최대 크기:',
 		'avatar_users_size' => '최고 사용자 페이지 에 아바타 크기:',
+        'block_bad_usernames' => '유저 이름 비허용됨 - 공백이나 쉼표로 구분 :',
 		'block_bad_words' => '검열 단어 - 공백 또는 쉼표로 구분:',
 		'block_ips_write' => '차단 된 IP 주소 - 공백 또는 쉼표 로 구분합니다 :',
-		'captcha_module' => 'captcha 모듈 사용:',
+		'caching_catwidget_time' => 'Cache category widget for:',
+	    'caching_enabled' => '캐싱 활성화:',
+	    'caching_driver' => '캐싱 드라이버',
+	    'caching_filesystem' => '파일 시스템',
+	    'caching_memcached' => 'Memcached',
+	    'caching_q_start' => '다음 질문 후 캐싱 시작:',
+	    'caching_q_time' => '캐싱 질문 페이지를 위함:',
+	    'caching_qlist_time' => '캐시 질문 페이지를 위함:',
+        'captcha_module' => 'captcha 모듈 사용:',
 		'captcha_on_anon_post' => '익명 게시물을 위한 captcha 사용:',
 		'captcha_on_feedback' => '페이스북 양식에 captcha 사용:',
 		'captcha_on_register' => '유저 가입을 위한 captcha 사용:',
@@ -148,6 +154,7 @@
 		'min_len_q_content' => '질문 내용의 최소 길이:',
 		'min_len_q_title' => '질문 제목의 최소 길이:',
 		'min_num_q_tags' => '태그의 최소 숫자:',
+	    'minify_html' => 'HTML 최소화:',
 		'moderate_anon_post' => '익명의 게시물에 대해 중재를 사용:',
 		'moderate_by_points' => '몇 가지 포인트 와 사용자에 대해 중재 를 사용:',
 		'moderate_edited_again' => '다시 적당한 게시물 편집 후:',
@@ -204,17 +211,22 @@
 		'place_main_below_title' => '주 영역 - 제목 아래',
 		'place_main_bottom' => '주 영역 - 바닥',
 		'place_main_top' => '주 영역 - 위',
-		'place_side_below_categories' => '사이드 패널 - 카테고리 아래',
+		'place_side_below_categories' => '사이드 패널 - 카테고리 아래', // @deprecated
 		'place_side_below_sidebar' => '사이드 패널 - 사이드 바 상자 아래',
+        'place_side_low' => '사이드 패널 - 아래',
 		'place_side_last' => '사이드 패널 - 마지막',
 		'place_side_top' => '사이드 패널 - 위',
 		'points_a_selected' => '최고로 답을 선택한 것',
 		'points_a_voted_max_gain' => '각각의 답변에 투표 부터 제한 :',
 		'points_a_voted_max_loss' => '각각의 답변에 아래 표에서 제한 :',
 		'points_base' => '모든 유저를 추가:',
+        'points_c_voted_max_gain' => '각 의견에서 up 투표 수 :',
+	    'points_c_voted_max_loss' => '각 의견의 down 투표 수 제한 :',
 		'points_multiple' => '모든 포인트 곱하기:',
 		'points_per_a_voted_down' => 'down투표 당 답변:',
 		'points_per_a_voted_up' => 'up투표 당 답변:',
+        'points_per_c_voted_down' => 'down투표 당 댓글:',
+	    'points_per_c_voted_up' => 'up투표 당 댓글:',
 		'points_per_q_voted_down' => 'down투표 당 질문:',
 		'points_per_q_voted_up' => 'up투표 당 질문:',
 		'points_post_a' => '답변 게시:',
@@ -228,11 +240,13 @@
 		'points_vote_up_q' => '질문에 up 투표:',
 		'q_urls_remove_accents' => '질문 URL의 악센트 를 제거:',
 		'q_urls_title_length' => 'URL 에서 질문 제목 길이:',
+        'recalc_hotness_q_view' => '모든 질문 페이지 뷰에서 새로움을 다시 계산:',
 		'register_notify_admin' => '새로운 유저가 등록 할 때 이메일을 보내기:',
 		'search_module' => '검색 모듈 사용:',
 		'show_a_form_immediate' => '즉시 대답 양식을 표시:',
 		'show_always' => '항상',
 		'show_c_reply_buttons' => '댓글에 회신 버튼을 표시:',
+        'show_compact_numbers' => '축약 숫자 보기 (예. 1.3k):',
 		'show_custom_answer' => '답변 양식에 커스텀 메시지 - HTML 허용됨:',
 		'show_custom_ask' => '질문 양식에 커스텀 메시지 - HTML 허용됨:',
 		'show_custom_comment' => '댓글 양식에 커스텀 메시지 - HTML 허용됨:',
@@ -244,7 +258,6 @@
 		'show_custom_sidebar' => '모든 페이지의 사이드 바 상자에 커스텀 HTML:',
 		'show_custom_sidepanel' => '모든 페이지의 사이드 패널 상자에 커스텀 HTML:',
 		'show_custom_welcome' => '이메일의 커스텀 메시지는 새로운 등록 된 사용자에게 전송 :',
-		'show_post_update_meta' => '포스트 메타의 수정/업데이트 보기:',
 		'show_fewer_cs_count' => '부분적으로 숨겨진 경우 , 가장 최근의 표시:',
 		'show_fewer_cs_from' => '보다 더 많은 경우, 부분적으로 의견을 숨기기:',
 		'show_full_date_days' => '후 전체 날짜를 표시:',
@@ -254,7 +267,8 @@
 		'show_never' => '절대',
 		'show_notice_visitor' => '처음 방문자를 위한 상단 공지 사항 - HTML 허용됨:',
 		'show_notice_welcome' => '새로운 등록된 사용자를 위한 상단 공지 사항 - HTML 허용됨:',
-		'show_register_terms' => '등록 양식 에 대한 이용 약관은 체크 박스 - HTML 허용됨:',
+        'show_post_update_meta' => '포스트 메타의 수정/업데이트 보기:',
+        'show_register_terms' => '등록 양식 에 대한 이용 약관은 체크 박스 - HTML 허용됨:',
 		'show_selected_first' => '정상에 선택한 답변 이동:',
 		'show_url_links' => '게시물안의 URL을 탐지하고 링크:',
 		'show_user_points' => '유저 이름 옆에 포인트 표시:',
@@ -285,11 +299,13 @@
 		'tags_or_categories' => '질문 분류 :',
 		'time_approved' => '허가한 시간',
 		'time_written' => '쓴 시간',
+        'use_microdata' => 'schema.org 마이크로데이터 사용:',
 		'votes_separated' => '별도의 up 및 down 투표 보기:',
 		'voting_on_as' => '답변에 투표 허용:',
+        'voting_on_cs' => '투표중에 댓글 허용:',
 		'voting_on_q_page_only' => '질문 페이지에서만 투표 허용:',
 		'voting_on_qs' => '질문에 투표 허용:',
-	);
+);
 
 
 /*
