@@ -78,6 +78,7 @@
 		'nav_user_pms' => '비밀 메시지',
 		'nav_user_qs' => '모든 질문',
 		'nav_user_wall' => '담벼락',
+	    'next_step' => '다음 걸음',
 		'no_activity_from_x' => '^에서 활동이 없습니다',
 		'no_favorite_categories' => '좋아하는 카테고리가 없습니다',
 		'no_favorite_qs' => '좋아하는 질문이 없습니다',
