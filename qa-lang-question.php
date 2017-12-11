@@ -3,11 +3,11 @@
 	Question2Answer by Gideon Greenspan and contributors
 	http://www.question2answer.org/
 
-	File: qa-include/qa-lang-question.php
+    File: qa-include/qa-lang-question.php
 	Description: Language phrases for question page
 
 
-	This program is free software; you can redistribute it and/or
+    This program is free software; you can redistribute it and/or
 	modify it under the terms of the GNU General Public License
 	as published by the Free Software Foundation; either version 2
 	of the License, or (at your option) any later version.
@@ -21,8 +21,7 @@
 	korea translation made by minwook shin
 	https://github.com/minwook-shin
 */
-
-	return array(
+    return array(
 		'1_answer_title' => '1 답변',
 		'a_convert_to_c_on' => '이 답변을 댓글로 변환:',
 		'a_convert_to_c' => '이 답변을 댓글로 변환',
@@ -39,7 +38,7 @@
 		'anon_name_label' => '보여지는 당신의 이름 (옵션):',
 		'answer_button' => '답변',
 		'answer_limit' => '너무 많은 답변을 함 - 몇시간후 다시 시도하십시오',
-		'answer_must_be_approved' => '당신이 질문에 대답 하기 전에 계정이 승인을 받아야합니다.',
+		'answer_must_be_approved' => '당신이 질문에 대답 하기 전에 계정이 승인을 받아야합니다. 기다리시거나 ^1많은 정보를 추가^2 해주십시오.',
 		'answer_must_confirm' => '^5이메일 주소 확인^6 질문에 대답 하십시오 .',
 		'answer_must_login' => '질문에 대한 답변을 하려면 ^1로그인^2 또는 ^3가입^4해야합니다.',
 		'answer_q_popup' => '이 질문에 답변',
@@ -51,7 +50,7 @@
 		'ask_follow_from_a' => '귀하의 질문이 답변과 관련이 있을 것입니다:',
 		'ask_follow_title' => '관련 질문하기',
 		'ask_limit' => '너무 많은 질문을 받음 - 몇시간후 다시 시도하십시오',
-		'ask_must_be_approved' => '당신이 질문을 하기 전에 당신의 계정은 허가를 받아야합니다.',
+		'ask_must_be_approved' => '당신이 질문을 하기 전에 당신의 계정은 허가를 받아야합니다. 기다리시거나 ^1많은 정보를 추가^2 해주십시오.',
 		'ask_must_confirm' => '질문을 묻기전에 ^5이메일 주소 확인^6을 해주십시오.',
 		'ask_must_login' => '질문을 묻기전에 ^1로그인^2 또는 ^3가입^4 해주십시오.',
 		'ask_same_q' => '계속하기전에, 이미 요청 하지 않은 질문을 확인하십시오 :',
@@ -78,13 +77,13 @@
 		'close_original_note' => '또한 URL로부터, 질문 번호를 입력 할 수 있습니다 예:(123) .',
 		'close_original_title' => '원래 질문 의 URL:',
 		'close_q_popup' => '새로운 답변이 질문을 닫습니다',
-		'close_reason_title' => '이 질문을 닫는 이유:',
+		'close_reason_title' => '이 질문을 닫는 이유, 또는 중복 질문의 URL:',
 		'closed_as_duplicate' => '중복으로 폐쇄:',
 		'closed_with_note' => '폐쇄 기록:',
 		'comment_a_popup' => '이 답변에 댓글을 추가',
 		'comment_button' => '댓글',
 		'comment_limit' => '너무 많은 댓글을 받음 - 몇 시간후에 다시 시도하십시오',
-		'comment_must_be_approved' => '당신은 댓글을 추가하기 전에 계정이 허가를 받아야합니다.',
+		'comment_must_be_approved' => '당신은 댓글을 추가하기 전에 계정이 허가를 받아야합니다. 기다리시거나 ^1많은 정보를 추가^2 해주십시오.',
 		'comment_must_confirm' => '댓글을 추가하려면^5이메일 확인^6해주세요.',
 		'comment_must_login' => '댓글을 추가하려면 ^1로그인^2 또는 ^3가입^4해주세요.',
 		'comment_on_a' => '답변: ',
