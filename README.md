@@ -14,7 +14,7 @@ GPL (GNU General Public License) 2.0
 ## Available versions
 
 * [Q2A 1.7.x](https://github.com/minwook-shin/q2a-korean-translation/tree/1.7-backup) - stable!
-* Q2A 1.8.x(This current branch) - wip!
+* Q2A 1.8.x(This current branch)
 
 ## thanks to
 
