@@ -4,19 +4,24 @@ Question2Answer korean translation 100% complete
 
 <https://github.com/minwook-shin/q2a-korean-translation>
 
-## Translate licenses
-
-GPL (GNU General Public License) 2.0
-<http://www.fsf.org/licenses/gpl.html>
-
-* follows licensing of the platform.
 
 ## Available versions
 
 * [Q2A 1.7.x](https://github.com/minwook-shin/q2a-korean-translation/tree/1.7-backup) - stable!
 * Q2A 1.8.x(This current branch)
 
-## thanks to
+## Getting Started
+
+### Installing
+
+1. download this repository files
+1. Copy the directory ```ko``` into ```qa_lang``` directory
+
+## Contributing
+
+This project welcomes your code contributions.
+
+### thank to
 
 cogniti,		Thank you for bug fixes. 
 
@@ -26,8 +31,13 @@ commaniakr,		Thank you for Fix incorrect translation.
 
 revi,		Thank you for Modify spaces
 
-## package download
+## License
 
-### download 
+This project is licensed under the GPL2 License - see the [LICENSE]( 
+LICENSE) file for details
+
+* Follow the license of platform.
+
+## package download
 
 [here](https://github.com/minwook-shin/q2a-korean-translation/archive/master.zip)
