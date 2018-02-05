@@ -7,29 +7,22 @@ Question2Answer korean translation
 
 ## Available versions
 
-* [Q2A 1.7.x](https://github.com/minwook-shin/q2a-korean-translation/tree/1.7-backup) - stable!
 * Q2A 1.8.x(This current branch)
 
-## Getting Started
+## 시작
 
-### Installing
+### 설치
 
 1. download this repository files
 1. Copy the directory ```ko``` into ```qa_lang``` directory
 
-## Contributing
+## 기여
 
 This project welcomes your code contributions.
 
 ### thank to
 
-cogniti,		Thank you for bug fixes. 
 
-yeon333,		Thank you for year,month fixes.
-
-commaniakr,		Thank you for Fix incorrect translation.
-
-revi,		Thank you for Modify spaces
 
 ## License
 
@@ -38,6 +31,3 @@ LICENSE) file for details
 
 * Follow the license of platform.
 
-## package download
-
-[here](https://github.com/minwook-shin/q2a-korean-translation/archive/master.zip)
