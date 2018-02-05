@@ -1,6 +1,6 @@
 # q2a-korean-translation
 
-Question2Answer korean translation 100% complete
+Question2Answer korean translation
 
 <https://github.com/minwook-shin/q2a-korean-translation>
 
