@@ -15,8 +15,8 @@ Question2Answer 한국어 번역
 
 1. php 파일 8개 내려받음
 1.  ```ko``` 디렉토리를 ```qa_lang``` 디렉토리에 복사
-1. qa-lang-admin.php 와 qa-lang-options.php 이 두 개 파일은 관리자 페이지에서만 쓰임.
-1. 참고 사이트 https://sebuls.blogspot.kr/2018/02/q2a-translation-korean.html
+1. qa-lang-admin.php 와 qa-lang-options.php 파일은 관리자 페이지에서만 쓰임.
+1. 참고 https://sebuls.blogspot.kr/2018/02/q2a-translation-korean.html
 
 ## 기여
 
