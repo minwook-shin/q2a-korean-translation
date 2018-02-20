@@ -2,7 +2,7 @@
 
 Question2Answer 한국어 번역
 
-<https://github.com/minwook-shin/q2a-korean-translation> 에 있는 것을 포크.
+<https://github.com/minwook-shin/q2a-korean-translation> 에 있는 것을 포크해서 추가 보완하려함.
 
 
 ## Available versions
@@ -13,7 +13,7 @@ Question2Answer 한국어 번역
 
 ### 설치
 
-1. 여덟개 파일 을 받음
+1. php 파일 8개 내려받음
 1.  ```ko``` 디렉토리를 ```qa_lang``` 디렉토리에 복사
 
 ## 기여
