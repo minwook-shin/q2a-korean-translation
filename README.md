@@ -2,7 +2,7 @@
 
 Question2Answer 한국어 번역
 
-<https://github.com/minwook-shin/q2a-korean-translation> 에 있는 것을 포크해서 추가 보완하려함.
+<https://github.com/minwook-shin/q2a-korean-translation> 에 있는 것을 포크했음. 추가 보완하려함.
 
 
 ## Available versions
