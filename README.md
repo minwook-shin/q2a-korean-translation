@@ -1,27 +1,27 @@
 # q2a-korean-translation
 
-Question2Answer korean translation
+Question2Answer 한국어 번역
 
-<https://github.com/minwook-shin/q2a-korean-translation>
+<https://github.com/minwook-shin/q2a-korean-translation> 에 있는 것을 포크.
 
 
 ## Available versions
 
-* Q2A 1.8.x(This current branch)
+* Q2A 1.8.x 번역하려함
 
 ## 시작
 
 ### 설치
 
-1. download this repository files
-1. Copy the directory ```ko``` into ```qa_lang``` directory
+1. 여덟개 파일 을 받음
+1.  ```ko``` 디렉토리를 ```qa_lang``` 디렉토리에 복사
 
 ## 기여
 
-This project welcomes your code contributions.
+여러분의 기여를 환영합니다.
 
 ### thank to
-
+오픈 소스에 기여하는 여러분들께 고마움을 전합니다.
 
 
 ## License
