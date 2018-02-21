@@ -1,8 +1,8 @@
-# q2a-korean-translation
+# q2a 한국어 번역
 
 Question2Answer 한국어 번역
 
-<https://github.com/minwook-shin/q2a-korean-translation> 에 있는 것을 포크하였음. 보완하려함.
+<https://github.com/minwook-shin/q2a-korean-translation> 에 있는 것을 포크하여 보완중.
 
 
 ## Available versions
@@ -10,9 +10,9 @@ Question2Answer 한국어 번역
 
 ### 설치
 1. php 파일 8개 내려받음
-1. ```ko``` 디렉토리를 ```qa_lang``` 디렉토리에 복사
+1. ko 디렉토리를 qa_lang 디렉토리에 복사
 1. qa-lang-admin.php 와 qa-lang-options.php 파일은 관리자 페이지에서만 쓰임.
-1. 번역 적용방법은 https://sebuls.blogspot.kr/2018/02/q2a-translation-korean.html 참고
+1. 번역 적용 방법 : https://sebuls.blogspot.kr/2018/02/q2a-translation-korean.html
 
 ## 기여
 여러분의 기여를 환영합니다.
