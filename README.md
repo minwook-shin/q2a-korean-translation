@@ -5,7 +5,7 @@ Question2Answer 한국어 번역
 <https://github.com/minwook-shin/q2a-korean-translation> 에 있는 것을 포크하여 보완중.
 
 
-## Available versions
+## 가능한 버전
 * Q2A 1.8.x 한국어 번역
 
 ### 설치
@@ -21,7 +21,6 @@ Question2Answer 한국어 번역
 오픈 소스에 기여하는 여러분들께 고마움을 전합니다.
 
 ## License
-This project is licensed under the GPL2 License - see the [LICENSE]( 
-LICENSE) file for details
+This project is licensed under the GPL2 License - see the [LICENSE](LICENSE) file for details
 
 * Follow the license of platform.
