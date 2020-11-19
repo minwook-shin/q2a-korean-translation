@@ -1,43 +1,26 @@
-# q2a-korean-translation
+# q2a 한국어 번역
 
-Question2Answer korean translation 100% complete
+Question2Answer 한국어 번역
 
-<https://github.com/minwook-shin/q2a-korean-translation>
+<https://github.com/minwook-shin/q2a-korean-translation> 에 있는 것을 포크하여 보완중.
 
 
-## Available versions
+## 가능한 버전
+* Q2A 1.8.x 한국어 번역
 
-* [Q2A 1.7.x](https://github.com/minwook-shin/q2a-korean-translation/tree/1.7-backup) - stable!
-* Q2A 1.8.x(This current branch)
+### 설치
+1. php 파일 8개 내려받음
+1. ko 디렉토리를 qa_lang 디렉토리에 복사
+1. qa-lang-admin.php 와 qa-lang-options.php 파일은 관리자 페이지에서만 쓰임.
+1. 번역 적용 방법 : https://sebuls.blogspot.kr/2018/02/q2a-translation-korean.html
 
-## Getting Started
+## 기여
+여러분의 기여를 환영합니다.
 
-### Installing
-
-1. download this repository files
-1. Copy the directory ```ko``` into ```qa_lang``` directory
-
-## Contributing
-
-This project welcomes your code contributions.
-
-### thank to
-
-cogniti,		Thank you for bug fixes. 
-
-yeon333,		Thank you for year,month fixes.
-
-commaniakr,		Thank you for Fix incorrect translation.
-
-revi,		Thank you for Modify spaces
+### 고마운 분들
+오픈 소스에 기여하는 여러분들께 고마움을 전합니다.
 
 ## License
-
-This project is licensed under the GPL2 License - see the [LICENSE]( 
-LICENSE) file for details
+This project is licensed under the GPL2 License - see the [LICENSE](LICENSE) file for details
 
 * Follow the license of platform.
-
-## package download
-
-[here](https://github.com/minwook-shin/q2a-korean-translation/archive/master.zip)
