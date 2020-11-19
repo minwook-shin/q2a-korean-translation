@@ -49,7 +49,7 @@
 		'confirm_wrong_log_in' => '코드가 정확하지 않습니다. - ^1로그인^2 새로운 링크를 보냅니다.',
 		'confirm_wrong_resend' => '코드가 정확하지 않습니다. - 새로운 링크를 보내기 위해 아래를 클릭하세요',
 		'delete_user_button' => '사용자 지우기',
-		'edit_profile' => '내 프로필 수정',
+		'edit_profile' => '내 프로필 편집',
 		'edit_user_button' => '사용자 편집',
 		'email_code_another' => '다르게 보냄',
 		'email_code_emailed' => '코드를 이메일로 보냈습니다',
